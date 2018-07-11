@@ -24,8 +24,8 @@
   },
   "dependencies": {
     "angular2-uuid": "1.1.1",
-    "@ionic-native/device": "~4.3.3",
-    "@ionic-native/file": "~4.7.0"
+    "@ionic-native/device": "^4.3.3",
+    "@ionic-native/file": "^4.7.0"
   },
   "devDependencies": {
     "@angular/common": "4.4.4",
